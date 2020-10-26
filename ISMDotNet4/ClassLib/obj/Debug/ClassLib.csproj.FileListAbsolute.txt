@@ -1,0 +1,5 @@
+C:\Users\Sasha\source\repos\ISMDotNet4\ClassLib\bin\Debug\ClassLib.dll
+C:\Users\Sasha\source\repos\ISMDotNet4\ClassLib\bin\Debug\ClassLib.pdb
+C:\Users\Sasha\source\repos\ISMDotNet4\ClassLib\obj\Debug\ClassLib.csproj.CoreCompileInputs.cache
+C:\Users\Sasha\source\repos\ISMDotNet4\ClassLib\obj\Debug\ClassLib.dll
+C:\Users\Sasha\source\repos\ISMDotNet4\ClassLib\obj\Debug\ClassLib.pdb
